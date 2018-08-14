@@ -15,10 +15,13 @@ material. Instead, digest what you've read and repeat it in your own voice.
 - [Ruby Array Class](http://ruby-doc.org/core-2.5.0/Array.html)
   - The _description_ of the Ruby Array Class (the part before [Creating Arrays](http://ruby-doc.org/core-2.5.0/Array.html#class-Array-label-Creating+Arrays))
 - [Ruby Enumerable Module](http://ruby-doc.org/core-2.5.0/Enumerable.html)
-  - The _description_ of the Ruby Enumerable Module (the part before **Public Instance Methods**)
+  - The _description_ of the Ruby Enumerable Module (the part before
+    **Public Instance Methods**)
 - [List ADT](https://en.wikipedia.org/wiki/List_%28abstract_data_type%29)
   - The _overview_ of the List ADT at Wikipedia (the part before the Contents block)
-- The list of method names in the **Methods** block on the left side of [Ruby Array Class](http://ruby-doc.org/core-2.5.0/Array.html) and [Ruby Enumerable Module](http://ruby-doc.org/core-2.5.0/Enumerable.html).
+- The list of method names in the **Methods** block on the left side of
+  [Ruby Array Class](http://ruby-doc.org/core-2.5.0/Array.html) and
+  [Ruby Enumerable Module](http://ruby-doc.org/core-2.5.0/Enumerable.html).
   - Note that Enumerable is listed as an **Included Module** for Array.
 
 ## Methods on Array and Enumerable
